@@ -1,0 +1,4 @@
+Welcome to Streamlit!
+
+This is my Text File Reader.
+I am learning Python and Streamlit.
